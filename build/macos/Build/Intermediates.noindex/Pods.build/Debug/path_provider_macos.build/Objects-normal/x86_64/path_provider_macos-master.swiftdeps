@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "d8921bc0fc4d9770a836cd9cf1cd5d16c0b5933205828435bbe4535746d62eff"
+build_start_time: [1702416361, 734754085]
+build_end_time: [1702416375, 34686088]
+inputs:
+  "/Users/rixon/.pub-cache/hosted/pub.dev/path_provider_macos-0.0.4+8/macos/Classes/PathProviderPlugin.swift": [1702415928, 80336093]

@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "c46a367236e0750e4d7a992559373aaa343251667fa2163507b2387fb73e1e28"
+build_start_time: [1702416365, 397306919]
+build_end_time: [1702416377, 653076171]
+inputs:
+  "/Users/rixon/.pub-cache/hosted/pub.dev/audioplayers-0.17.4/darwin/Classes/NotificationsHandler.swift": [1702415933, 359491825]
+  "/Users/rixon/.pub-cache/hosted/pub.dev/audioplayers-0.17.4/darwin/Classes/SwiftAudioplayersPlugin.swift": [1702415933, 360348463]
+  "/Users/rixon/.pub-cache/hosted/pub.dev/audioplayers-0.17.4/darwin/Classes/Utils.swift": [1702415933, 361486911]
+  "/Users/rixon/.pub-cache/hosted/pub.dev/audioplayers-0.17.4/darwin/Classes/WrappedMediaPlayer.swift": [1702415933, 362431526]

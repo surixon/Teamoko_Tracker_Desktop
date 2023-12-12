@@ -1,0 +1,1 @@
+enum AttendenceType { screenTracker,basicMannual,locationBased,locationBasedAutomatic }

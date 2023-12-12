@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "c5065533ccc5386104f1a953d6647f62c005640c2656f54689d6573399666fa4"
+build_start_time: [1702416365, 402598857]
+build_end_time: [1702416374, 899955034]
+inputs:
+  "/Users/rixon/.pub-cache/hosted/pub.dev/file_chooser-0.1.6/macos/Classes/FileChooserPlugin.swift": [1702415927, 901395320]

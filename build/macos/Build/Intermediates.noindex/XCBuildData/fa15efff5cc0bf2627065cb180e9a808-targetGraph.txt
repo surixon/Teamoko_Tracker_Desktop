@@ -1,0 +1,53 @@
+Target dependency graph (13 targets)
+FMDB in Pods, no dependencies
+FlutterMacOS in Pods, no dependencies
+audioplayers in Pods, depends on:
+FlutterMacOS in Pods (explicit)
+file_chooser in Pods, depends on:
+FlutterMacOS in Pods (explicit)
+package_info in Pods, depends on:
+FlutterMacOS in Pods (explicit)
+path_provider_macos in Pods, depends on:
+FlutterMacOS in Pods (explicit)
+shared_preferences_macos in Pods, depends on:
+FlutterMacOS in Pods (explicit)
+sqflite in Pods, depends on:
+FMDB in Pods (explicit)
+FlutterMacOS in Pods (explicit)
+url_launcher_macos in Pods, depends on:
+FlutterMacOS in Pods (explicit)
+window_size in Pods, depends on:
+FlutterMacOS in Pods (explicit)
+Flutter Assemble in Runner, depends on:
+FMDB in Pods (implicit dependency via options '-framework FMDB' in build setting 'OTHER_LDFLAGS')
+audioplayers in Pods (implicit dependency via options '-framework audioplayers' in build setting 'OTHER_LDFLAGS')
+file_chooser in Pods (implicit dependency via options '-framework file_chooser' in build setting 'OTHER_LDFLAGS')
+package_info in Pods (implicit dependency via options '-framework package_info' in build setting 'OTHER_LDFLAGS')
+path_provider_macos in Pods (implicit dependency via options '-framework path_provider_macos' in build setting 'OTHER_LDFLAGS')
+shared_preferences_macos in Pods (implicit dependency via options '-framework shared_preferences_macos' in build setting 'OTHER_LDFLAGS')
+sqflite in Pods (implicit dependency via options '-framework sqflite' in build setting 'OTHER_LDFLAGS')
+url_launcher_macos in Pods (implicit dependency via options '-framework url_launcher_macos' in build setting 'OTHER_LDFLAGS')
+window_size in Pods (implicit dependency via options '-framework window_size' in build setting 'OTHER_LDFLAGS')
+Pods-Runner in Pods, depends on:
+FMDB in Pods (explicit)
+FlutterMacOS in Pods (explicit)
+audioplayers in Pods (explicit)
+file_chooser in Pods (explicit)
+package_info in Pods (explicit)
+path_provider_macos in Pods (explicit)
+shared_preferences_macos in Pods (explicit)
+sqflite in Pods (explicit)
+url_launcher_macos in Pods (explicit)
+window_size in Pods (explicit)
+Runner in Runner, depends on:
+Flutter Assemble in Runner (explicit)
+Pods-Runner in Pods (implicit dependency via file 'Pods_Runner.framework' in build phase 'Link Binary')
+FMDB in Pods (implicit dependency via options '-framework FMDB' in build setting 'OTHER_LDFLAGS')
+audioplayers in Pods (implicit dependency via options '-framework audioplayers' in build setting 'OTHER_LDFLAGS')
+file_chooser in Pods (implicit dependency via options '-framework file_chooser' in build setting 'OTHER_LDFLAGS')
+package_info in Pods (implicit dependency via options '-framework package_info' in build setting 'OTHER_LDFLAGS')
+path_provider_macos in Pods (implicit dependency via options '-framework path_provider_macos' in build setting 'OTHER_LDFLAGS')
+shared_preferences_macos in Pods (implicit dependency via options '-framework shared_preferences_macos' in build setting 'OTHER_LDFLAGS')
+sqflite in Pods (implicit dependency via options '-framework sqflite' in build setting 'OTHER_LDFLAGS')
+url_launcher_macos in Pods (implicit dependency via options '-framework url_launcher_macos' in build setting 'OTHER_LDFLAGS')
+window_size in Pods (implicit dependency via options '-framework window_size' in build setting 'OTHER_LDFLAGS')

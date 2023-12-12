@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "ccc61ba774d665643d62fac01ec58cd89f02dcfb09f5c5456a5c894d88d18dd9"
+build_start_time: [1702416365, 402588844]
+build_end_time: [1702416374, 850831985]
+inputs:
+  "/Users/rixon/.pub-cache/hosted/pub.dev/shared_preferences_macos-0.0.1+11/macos/Classes/SharedPreferencesPlugin.swift": [1702415928, 656759977]

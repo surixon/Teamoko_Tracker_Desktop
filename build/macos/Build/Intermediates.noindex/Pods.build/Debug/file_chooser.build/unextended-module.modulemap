@@ -1,0 +1,10 @@
+framework module file_chooser {
+  umbrella header "file_chooser-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module file_chooser.__Swift {
+  exclude header "file_chooser-Swift.h"
+}
